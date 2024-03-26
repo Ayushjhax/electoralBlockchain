@@ -109,7 +109,7 @@ export const Dashboard = () => {
               <div
                 className="best-post-image"
                 style={{
-                  backgroundImage: `url("https://user-images.githubusercontent.com/62637513/184338364-a14b7272-d1dc-49f3-9f43-3ac37dacbe85.png")`,
+                  backgroundImage: `url("https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2024/03/election-commission-of-india-1710584419.jpg")`,
                 }}
               ></div>
               <div className="best-post-content">
@@ -135,7 +135,7 @@ export const Dashboard = () => {
                       <div
                         className="post__card__image-2"
                         style={{
-                          backgroundImage: `url("https://user-images.githubusercontent.com/62637513/184338539-9cdbdc58-1e72-4c48-8203-0b7ec23d3eb0.png")`,
+                          backgroundImage: `url("https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2024/03/election-commission-of-india-1710584419.jpg")`,
                         }}
                       ></div>
                       <div>
