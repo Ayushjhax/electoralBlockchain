@@ -11,9 +11,10 @@ export default defineConfig({
     }]
   },
   build: {
-		minify: 'esbuild',
-		target: "esnext"
-	},
+    outDir: 'build', // Specify the output directory
+    minify: 'esbuild',
+    target: "esnext"
+  },
   define: {
     'process.env': {}
   }
