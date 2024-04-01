@@ -55,9 +55,9 @@ export const FullPost = () => {
       <div className="entry-meta">
         <p>
           <span className="author">
-            Written by <a href="#">Delhi Police</a>
+            Written by <a href="#">ONDC</a>
           </span>{" "}
-          <span className="date">Monday, July 9, 2024</span>
+          <span className="date">Sunday, April 7, 2024</span>
         </p>
       </div>
       <div className="entry-content">

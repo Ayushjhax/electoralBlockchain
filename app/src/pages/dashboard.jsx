@@ -33,7 +33,7 @@ export const Dashboard = () => {
           <h2 className="text-2xl font-bold">
             <div className="bg-clip-text bg-gradient-to-br from-indigo-300 colorpink"
             >
-              Election Commision Of india
+              ONDC INDIA
             </div>
           </h2>
           {connected ? (
@@ -109,16 +109,16 @@ export const Dashboard = () => {
               <div
                 className="best-post-image"
                 style={{
-                  backgroundImage: `url("https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2024/03/election-commission-of-india-1710584419.jpg")`,
+                  backgroundImage: `url("https://s3-ap-south-1.amazonaws.com/ondc-static-web-bucket/ondc-website-media/2024/01/blog-image-1.png")`,
                 }}
               ></div>
               <div className="best-post-content">
-                <div className="best-post-content-cat">March 12, 2024<span className="dot"> </span>Blog</div>
+                <div className="best-post-content-cat">April 7, 2024<span className="dot"> </span>Content</div>
                 <div className="best-post-content-title">
-                Election commision of india
+                ONDC
                 </div>
                 <div className="best-post-content-sub">
-                  The Election Commission of India is a constitutional body. It was established by the Constitution of India to conduct and regulate elections in the country.                </div>
+                  The Open Network for Digital Commerce (ONDC) is an initiative by the Government of India aimed at creating a unified digital commerce ecosystem. It facilitates seamless integration of various stakeholders such as buyers, sellers, service providers, and logistics providers through standardized protocols and APIs. ONDC aims to enhance transparency, efficiency, and inclusivity in digital commerce while fostering innovation and economic growth.            </div>
               </div>
             </article>
 
@@ -135,12 +135,12 @@ export const Dashboard = () => {
                       <div
                         className="post__card__image-2"
                         style={{
-                          backgroundImage: `url("https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2024/03/election-commission-of-india-1710584419.jpg")`,
+                          backgroundImage: `url("https://s3-ap-south-1.amazonaws.com/ondc-static-web-bucket/ondc-website-media/2024/01/blog-image-1.png")`,
                         }}
                       ></div>
                       <div>
                         <div className="post__card_meta-2">
-                          <div className="post__card_cat">March 12, 2024<span className="dot"> </span>{item.account.title} </div>
+                          <div className="post__card_cat">April 7, 2024<span className="dot"> </span>{item.account.title} </div>
                           <p className="post__card_alttitle-2">
                             {item.account.content}
                           </p>
