@@ -1,16 +1,16 @@
-# Solana-Helius-Blog
+# ONDC-Content
 
 ## Description
 
-Solana-Helius-Blog is a blockchain-enabled blogging platform that leverages the power of blockchain technology, specifically the Solana blockchain, and the Helius RPC. This platform aims to revolutionize the way bloggers create, share, and monetize their content while addressing some of the key challenges faced by traditional centralized blogging platforms.
+ONDC-content is a blockchain-enabled blogging platform that leverages the power of blockchain technology, specifically the Solana blockchain, and the Helius RPC. This platform aims to revolutionize the way creator create content, share, and monetize their content while addressing some of the key challenges faced by traditional centralized blogging platforms.
 
 ### Project Overview
 
-- **Benefits**: Solana-Helius-Blog aims to solve issues with traditional blogging, such as censorship, data breaches, and unfair monetization models.
+- **Benefits**: ONDC-content aims to solve issues with traditional blogging, such as censorship, data breaches, and unfair monetization models.
 
 - **How It Works**: Users can create, share, and monetize content securely while maintaining ownership.
 
-- **Challenges**: Implementing blockchain for blogging comes with challenges like scalability, user-friendliness, and content moderation.
+- **Challenges**: Implementing blockchain for content comes with challenges like scalability, user-friendliness, and content moderation.
 
 - **Key Features**: It leverages blockchain's transparency, security, and smart contracts for user authentication and transactions.
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**:
 
    ```sh
-   git clone git@github.com:Ayushjhax/Solana-Helius-Blog.git
+   git clone git@github.com:Ayushjhax/ondcPayContent.git
 
 ## Deployment
 
@@ -48,18 +48,14 @@ Navigate to the Project Directory:
 Open your web browser and go to http://localhost:3000 to access Solana-Helius-Blog locally.
 
 ## Screenshots
-![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/bd199102-1cdc-4e01-a88e-06fb75cd2fca)\
-![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/24084382-039f-4ef6-abd2-948d91d9fc14)\
-![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/5ac343f0-e9dc-4ae0-a4c9-d3f9d1ba6d06)\
-![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/e9441038-d25b-4f23-bc8c-c728ac089519)\
-![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/40a5dda3-66ea-4d52-8f8a-d7e5e7efa852)\
-![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/240790cf-9b1f-4a79-bb24-e458de06f249)\
-![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/5a1ccdbf-20a8-40ca-b713-6df67936493e)
+![image](https://github.com/Ayushjhax/ondcPayContent/assets/116433617/ea3dd8d6-d532-4daa-b076-7bc31ae80ed7)
+ ![image](https://github.com/Ayushjhax/ondcPayContent/assets/116433617/b038132d-2191-41e6-8269-cbd35bddc7b3)
+
 
 
 ## Author
 
-Ayush Kumar Jha\
+Ayush Kumar Jh
 GitHub: @Ayushjhax
 
 
