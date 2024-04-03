@@ -40,6 +40,10 @@ Navigate to the Project Directory:
 ```bash
   cd app
 ```
+## Install the dependencies:
+```bash
+    yarn install
+```
 ## Run the Project:
 ```bash
     yarn dev
