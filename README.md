@@ -2,7 +2,7 @@
 
 ## Description
 
-ONDC-content is a blockchain-enabled blogging platform that leverages the power of blockchain technology, specifically the Solana blockchain, and the Helius RPC. This platform aims to revolutionize the way creator create content, share, and monetize their content while addressing some of the key challenges faced by traditional centralized blogging platforms.
+ONDC-content is a blockchain-enabled platform that leverages the power of blockchain technology, specifically the Solana blockchain, and the Helius RPC. This platform aims to revolutionize the way creator create content, share, and monetize their content while addressing some of the key challenges faced by traditional centralized blogging platforms.
 
 ### Project Overview
 
@@ -24,14 +24,14 @@ ONDC-content is a blockchain-enabled blogging platform that leverages the power 
 
 Before you begin, ensure you have met the following requirements:
 
-- **Node.js**: Solana-Helius-Blog requires Node.js to be installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
+- **Node.js**: Solana-Content requires Node.js to be installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
 
 ## Installation
 
 1. **Clone the Repository**:
 
    ```sh
-   git clone git@github.com:Ayushjhax/ondcPayContent.git
+   git clone https://github.com/Ayushjhax/ondcPayContent.git
 
 ## Deployment
 
@@ -45,11 +45,14 @@ Navigate to the Project Directory:
     yarn dev
 ```
 ## Access the Local Host:
-Open your web browser and go to http://localhost:3000 to access Solana-Helius-Blog locally.
+Open your web browser and go to http://localhost:3000 to access Solana-Content locally.
 
 ## Screenshots
 ![image](https://github.com/Ayushjhax/ondcPayContent/assets/116433617/ea3dd8d6-d532-4daa-b076-7bc31ae80ed7)
  ![image](https://github.com/Ayushjhax/ondcPayContent/assets/116433617/b038132d-2191-41e6-8269-cbd35bddc7b3)
+![image](https://github.com/Ayushjhax/ondcPayContent/assets/116433617/11801f88-230d-49cd-bf93-11fff9ff1237)
+![image](https://github.com/Ayushjhax/ondcPayContent/assets/116433617/be032a67-a7a3-4a05-93a9-885b6fda89ef)
+![image](https://github.com/Ayushjhax/ondcPayContent/assets/116433617/3fac4f64-96ac-4e62-9773-adf8e1127c10)
 
 
 
